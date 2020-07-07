@@ -29,7 +29,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Alvaro Arturo** - *Frontend Developer* - [PurpleBooth](https://github.com/jrarturo)
+* **Alvaro Arturo** - *Frontend Developer* - [Alvaro Jr. Arturo](https://github.com/jrarturo)
 
 There are not contributors yet!
 
